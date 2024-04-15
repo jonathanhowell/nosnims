@@ -1,12 +1,12 @@
 ---
 draft: false
 title: "Flapjacks"
-author: Toby Swinson-Howell
-recipe_image: /images/defaultImage2.jpg #The image for your recipe
+author: Toby
+recipe_image: /images/flapjack-wiki.jpeg #The image for your recipe
 image_width: 512
 image_height: 512
 date: 2024-04-14T15:06:37+01:00
-tags: ["Deserts", "tag2"] #tags for your recipe
+tags: ["Desserts", "tag6"] #tags for your recipe
 tagline: "Delicious flapjacks; 24 pieces"
 servings: 24
 prep_time: 15 #in minutes; can be blank
