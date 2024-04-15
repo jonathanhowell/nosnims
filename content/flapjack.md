@@ -13,7 +13,7 @@ prep_time: 15 #in minutes; can be blank
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
 cook_time: 27 #in minutes or hours; can be blank
-calories:  #in kcal #can be blank
+temp: 160 #in kcal #can be blank
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
 ---
@@ -36,4 +36,4 @@ calories:  #in kcal #can be blank
 5. When the butter is close to melting, pour the sugar in and add the golden syrup.
 6. When it has combined and is close to caramelising, take it off the heat and stir in the oats and seeds (if using).
 7. Spoon the mixture into the tray, making sure the corners are flat.
-8. Step Six
+8. Put the tray into the oven, and set the timer for 27 mins.
