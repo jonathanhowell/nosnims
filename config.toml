@@ -1,4 +1,4 @@
-baseURL = 'jumpingtj.github.io/nosnims/'
+baseURL = ''
 languageCode = 'en-gb'
 title = 'Nosnims Cookbook'
 theme = 'cookbook'
