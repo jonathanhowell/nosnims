@@ -3,7 +3,6 @@ languageCode = 'en-gb'
 title = 'Nosnims Cookbook'
 theme = 'cookbook'
 sectionPagesMenu = "main"
-relativeURLs = true
 
 [params.front]
 defaultAuthor = "Toby" #Put in the default name of the author of the recipe
